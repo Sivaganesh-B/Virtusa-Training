@@ -1,2 +1,2 @@
 # Virtusa-Training
-HTML , CSS , JS , C# ,Java
+HTML , CSS , JS , C# , Java, Python
